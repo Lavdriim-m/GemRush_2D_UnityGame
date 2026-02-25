@@ -49,6 +49,16 @@ Jump through platforms, collect gems, survive enemy encounters, and advance thro
 
 ---
 
+## 📸 Screenshots
+
+| Gameplay | Combat |
+|---------|--------|
+| ![](screenshots/GemRush_Level1.png) | ![](screenshots/GemRush_combat.png) |
+
+| UI & Progression | Enemies |
+|------------------|---------|
+| ![](screenshots/GemRush_instructions.png) | ![](screenshots/GemRush_character.png) |
+
 
 
 ---
