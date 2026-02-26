@@ -3,7 +3,7 @@
 **Gem Rush** is a fast-paced 2D platformer built in Unity, where movement, timing, and precision matter.  
 Jump through platforms, collect gems, survive enemy encounters, and advance through levels as the challenge ramps up.
 
-| Main Menu |
+| Cover Image |
 |---------|
 | ![](screenshots/GemRush_Cover.png) |
 
