@@ -5,7 +5,7 @@ Jump through platforms, collect gems, survive enemy encounters, and advance thro
 
 | Main Menu |
 |---------|
-| ![](screenshots/GemRush_MainMenu.png) |
+| ![](screenshots/GemRush_Cover.png) |
 
 ---
 
